@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "FFETM1_Listen",
+"productVersion": "0.1",
+"dataUrl": "FFETM1_T1_Test_NN.data.unityweb",
+"wasmCodeUrl": "FFETM1_T1_Test_NN.wasm.code.unityweb",
+"wasmFrameworkUrl": "FFETM1_T1_Test_NN.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.6f1"
+}
